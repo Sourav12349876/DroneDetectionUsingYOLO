@@ -102,9 +102,3 @@ Compute the mAP performance of the model defined in saved_weights_name on the va
    > $ python evaluate.py -c config.json
    > ```
 
-## OUTPUT
-
-Demo:
-
-![](https://github.com/harshiniKumar/Drone-Detection-using-YOLOv3/blob/master/Outputs/Drone-Detection-Demo.gif)
-- Download the [sample output for drone detection in a video.](https://github.com/harshiniKumar/Drone-Detection-using-YOLOv3/blob/master/Outputs/Drone_Video_Detection.mp4?raw=true)
